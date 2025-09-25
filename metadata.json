@@ -1,0 +1,5 @@
+{
+  "name": "Pi Core Nexus",
+  "description": "A Pi Network-integrated application blending e-commerce, POS, livestream media, games, and a tradable token economy. This is a frontend demo showcasing the core user experience and features of the MVP.",
+  "requestFramePermissions": []
+}
